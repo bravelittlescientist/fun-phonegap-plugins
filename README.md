@@ -1,4 +1,4 @@
-Delicious Phonegap Plugins
+Fun Phonegap Plugins
 ==============================
 
 I enjoy using [PhoneGap](http://phonegap.com/) for mobile development, but
@@ -17,7 +17,7 @@ Touch in the future, as well!
 
 This project will be organized as follows:
 
-    delicious-phonegap-plugins/
+    fun-phonegap-plugins/
         android/
             plugin-name-android/
                 README.md <-- Info about [plugin-name] here
