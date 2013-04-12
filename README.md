@@ -9,7 +9,7 @@ Please see the README.md in each plugin directory for instructions on how
 to add it to your project. Each plugin directory includes a sample PhoneGap
 project, which should be runnable on your emulator or device. 
 
-I am running [PhoneGap 2.5.0](http://docs.phonegap.com/en/2.5.0/index.html) 
+I am running [PhoneGap 2.6.0](http://docs.phonegap.com/en/2.6.0/index.html) 
 and [jQuery mobile 1.3.1](http://jquerymobile.com/). I hope to try Sencha
 Touch in the future, as well! 
 
@@ -20,6 +20,7 @@ This project will be organized as follows:
     delicious-phonegap-plugins/
         android/
             plugin-name-android/
+                README.md <-- Info about [plugin-name] here
             other-plugin-android/
         ios/ [Coming Soon]
             plugin-name-ios/
@@ -29,8 +30,6 @@ This project will be organized as follows:
 
 (The MIT License) 
 
-	Copyright (c) 2013 Eugenia Gabrielova 
-  
 	Permission is hereby granted, free of charge, to any person obtaining a copy of
 	this software and associated documentation files (the 'Software'), to deal in
 	the Software without restriction, including without limitation the rights to use,
